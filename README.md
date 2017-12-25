@@ -20,6 +20,7 @@
 ### Clone
   ```
   git clone https://github.com/Amiryy/amiry-simple-react.git
+  cd amiry-simple-react
   npm install  
   ```
 

@@ -10,6 +10,7 @@
   I will create more boilerplates for other purposes, stay posted! :)  
   
   **This build supports ES6 and React.**  
+  **Hot Reloading - page instantly updates with changes**
   ### Supported Assets:
   #### CSS
   #### Images

@@ -5,4 +5,9 @@ import './styles/main.css';
 
 import App from './App';
 
-render(<App />, document.getElementById('root'));
+
+const root = document.createElement('div');
+root.setAttribute('id', 'root');
+document.body.appendChild(root);
+
+render(<App />, root);

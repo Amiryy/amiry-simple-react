@@ -18,7 +18,10 @@
 
 ## Getting Started
 ### Clone
-  ```git clone https://github.com/Amiryy/amiry-simple-react.git```
+  ```
+  git clone https://github.com/Amiryy/amiry-simple-react.git
+  npm install  
+  ```
 
 ## Usage
 ### Development

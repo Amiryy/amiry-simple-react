@@ -27,8 +27,9 @@ cd amiry-simple-react
 npm install  
 ```
 
-### or Install
-  `npm install amiry-simple-react`
+### or Install  
+(under construction)  
+`npm install amiry-simple-react`
 
 ## Usage
 ### Development

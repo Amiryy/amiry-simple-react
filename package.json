@@ -1,6 +1,6 @@
 {
   "name": "amiry-simple-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a basic boilerplate for an initial react project state.",
   "main": "index.js",
   "scripts": {

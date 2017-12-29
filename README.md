@@ -2,7 +2,7 @@
   This is my simple React setup.  
   Feel free to use this boilerplate as a basic foundation to any small React project.
   
-  ## About
+ ### About
   Since web development technologies are advancing fast,  
   it's great to solidify your build tools knowledge every once in a while.  
   So I decided to create this boilerplate as a good practice of webpack and other build tools and methods.  
@@ -19,12 +19,8 @@
   - Fonts
 
 ## Getting Started
-### Clone
-  ```
-  git clone https://github.com/Amiryy/amiry-simple-react.git
-  cd amiry-simple-react
-  npm install  
-  ```
+### install
+  `npm install amiry-simple-react`
 
 ## Usage
 ### Development
